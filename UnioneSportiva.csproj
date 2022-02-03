@@ -1,0 +1,73 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\10bis.jpg" />
+    <None Include="wwwroot\images\11bis.jpg" />
+    <None Include="wwwroot\images\12bis.jpg" />
+    <None Include="wwwroot\images\13bis.jpg" />
+    <None Include="wwwroot\images\14bis.jpg" />
+    <None Include="wwwroot\images\150anni.jpg" />
+    <None Include="wwwroot\images\15bis.jpg" />
+    <None Include="wwwroot\images\16bis.jpg" />
+    <None Include="wwwroot\images\17bis.jpg" />
+    <None Include="wwwroot\images\18bis.jpg" />
+    <None Include="wwwroot\images\19bis.jpg" />
+    <None Include="wwwroot\images\1bis.jpg" />
+    <None Include="wwwroot\images\20bis.jpg" />
+    <None Include="wwwroot\images\21bis.jpg" />
+    <None Include="wwwroot\images\22bis.jpg" />
+    <None Include="wwwroot\images\23bis.jpg" />
+    <None Include="wwwroot\images\24bis.jpg" />
+    <None Include="wwwroot\images\2bis.jpg" />
+    <None Include="wwwroot\images\3bis.jpg" />
+    <None Include="wwwroot\images\4bis.jpg" />
+    <None Include="wwwroot\images\5bis2.jpg" />
+    <None Include="wwwroot\images\6bis.jpg" />
+    <None Include="wwwroot\images\7bis.jpg" />
+    <None Include="wwwroot\images\8bis.jpg" />
+    <None Include="wwwroot\images\9bis.jpg" />
+    <None Include="wwwroot\images\favicon.png" />
+    <None Include="wwwroot\images\FGI.png" />
+    <None Include="wwwroot\images\fijkam.jpg" />
+    <None Include="wwwroot\images\Gag.jpg" />
+    <None Include="wwwroot\images\gag2.jpg" />
+    <None Include="wwwroot\images\gincapriola.jpg" />
+    <None Include="wwwroot\images\ginnastica-to-show-2.jpg" />
+    <None Include="wwwroot\images\ginnastica-to-show.jpg" />
+    <None Include="wwwroot\images\Ginnastica1.jpg" />
+    <None Include="wwwroot\images\Ginnastica2.jpg" />
+    <None Include="wwwroot\images\ginnasticaVilla.jpg" />
+    <None Include="wwwroot\images\ju-jitsu-to-show.jpg" />
+    <None Include="wwwroot\images\Ju-JitsuStelleSport.jpg" />
+    <None Include="wwwroot\images\judo-to-show-2.jpg" />
+    <None Include="wwwroot\images\judo-to-show.jpg" />
+    <None Include="wwwroot\images\JudoVilla.jpg" />
+    <None Include="wwwroot\images\juJitsu1.jpg" />
+    <None Include="wwwroot\images\juJitsuVilla.jpg" />
+    <None Include="wwwroot\images\karate-to-show-1.jpg" />
+    <None Include="wwwroot\images\karate-to-show-2.jpg" />
+    <None Include="wwwroot\images\logo.jpg" />
+    <None Include="wwwroot\images\lotta-to-show-1.jpg" />
+    <None Include="wwwroot\images\lotta-to-show-2.jpg" />
+    <None Include="wwwroot\images\manifestazione.jpg" />
+    <None Include="wwwroot\images\pilates.jpg" />
+    <None Include="wwwroot\images\pilates2.jpg" />
+    <None Include="wwwroot\images\pugilato-to-show-1.jpg" />
+    <None Include="wwwroot\images\pugilato-to-show-2.jpg" />
+    <None Include="wwwroot\images\saluto.jpg" />
+    <None Include="wwwroot\images\Sergio_Castelluccio.jpg" />
+    <None Include="wwwroot\images\Stefania.jpg" />
+    <None Include="wwwroot\images\Stefania_Bavoso.jpg" />
+    <None Include="wwwroot\images\tatami.jpg" />
+    <None Include="wwwroot\images\USjujitsu.jpg" />
+    <None Include="wwwroot\images\USSP-ingresso.jpg" />
+    <None Include="wwwroot\images\US_big.jpg" />
+    <None Include="wwwroot\images\yoga-to-show-1.jpg" />
+    <None Include="wwwroot\images\yoga-to-show-2.jpg" />
+  </ItemGroup>
+
+</Project>
