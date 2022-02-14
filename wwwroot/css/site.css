@@ -51,17 +51,28 @@ button.accept-policy {
   line-height: inherit;
 }
 
+.CurrentSportImg, .federazione {
+    height: 200px;
+    width: 200px;
+}
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
 }
+
+.lista_insegnanti {
+    list-style: none;
+    list-style-type: none;
+    list-style-type: none;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
