@@ -9,11 +9,11 @@ using UnioneSportiva.Models;
 
 namespace UnioneSportiva.Controllers
 {
-    public class JuJitsuController : Controller
+    public class SportController : Controller
     {
-        private readonly ILogger<JuJitsuController> _logger;
+        private readonly ILogger<SportController> _logger;
 
-        public JuJitsuController(ILogger<JuJitsuController> logger)
+        public SportController(ILogger<SportController> logger)
         {
             _logger = logger;
         }
@@ -27,6 +27,31 @@ namespace UnioneSportiva.Controllers
         }
 
         public IActionResult JuJitsu()
+        {
+            return View();
+        }
+
+        public IActionResult Judo()
+        {
+            return View();
+        }
+
+        public IActionResult Karate()
+        {
+            return View();
+        }
+
+        public IActionResult Pugilato()
+        {
+            return View();
+        }
+
+        public IActionResult Yoga()
+        {
+            return View();
+        }
+
+        public IActionResult Lotta()
         {
             return View();
         }

@@ -73,6 +73,11 @@ body {
     list-style-type: none;
 }
 
+.lista_insegnanti > li{
+    font-size: larger;
+    font-weight: 500;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
@@ -91,3 +96,9 @@ body {
 .list-unstyled{
     list-style: none;
 }
+
+
+
+
+
+
