@@ -84,6 +84,7 @@ body {
   width: 100%;
   white-space: nowrap;
   line-height: 30px; /* Vertically center the text there */
+  margin-top:100px;
 }
     /*class row correction. 
         ( See \wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map )
@@ -97,8 +98,35 @@ body {
     list-style: none;
 }
 
+.orari {
+    width: 100%;
+    margin: 0px 0px 50px 0px;
+}
 
+.tabella-orari {
+    padding: 30px 10px 10px 10px;
+    border: 0.15em solid #6c757d;
+    border-radius: 10px;
+    width: 100%;
+}
 
+    .tabella-orari table{
+        width: 100%;
+    }
 
+    .tabella-orari tr th{
+        background-color: aliceblue;
+    }
 
-
+.tabella-orari-title {
+    border: 1px solid #6c757d;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 22px;
+    color: #6c757d;
+    width: fit-content;
+    font-weight: bold;
+    padding: 5px 25px 5px 25px;
+    position: absolute;
+    margin: -20px 10px 10px 10px;
+}
