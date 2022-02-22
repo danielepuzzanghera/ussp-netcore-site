@@ -54,6 +54,7 @@ button.accept-policy {
 .CurrentSportImg, .federazione {
     height: 200px;
     width: 200px;
+   border-radius: 5px;
 }
 /* Sticky footer styles
 -------------------------------------------------- */
@@ -108,6 +109,7 @@ body {
     border: 0.15em solid #6c757d;
     border-radius: 10px;
     width: 100%;
+    font-size: 18px;
 }
 
     .tabella-orari table{
@@ -129,4 +131,19 @@ body {
     padding: 5px 25px 5px 25px;
     position: absolute;
     margin: -20px 10px 10px 10px;
+}
+
+.profile-img {
+    width: 150px;
+    height: 150px;
+}
+
+.profile-description {
+    color: black;
+}
+
+.info-istr-list {
+    margin-bottom: 5px;
+    border: 1px solid #6c757d;
+    border-radius: 10px;
 }

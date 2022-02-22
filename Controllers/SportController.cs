@@ -56,5 +56,15 @@ namespace UnioneSportiva.Controllers
             return View();
         }
 
+        public IActionResult Pilates()
+        {
+            return View();
+        }
+
+        public IActionResult Ginnastica()
+        {
+            return View();
+        }
+
     }
 }
