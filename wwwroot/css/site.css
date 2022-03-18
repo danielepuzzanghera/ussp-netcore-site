@@ -147,3 +147,11 @@ body {
     border: 1px solid #6c757d;
     border-radius: 10px;
 }
+
+
+.carouselImage {
+    width: auto;
+    height: 225px;
+    max-height: 225px;
+    text-align: center;
+}
